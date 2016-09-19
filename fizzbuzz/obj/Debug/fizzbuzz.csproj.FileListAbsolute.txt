@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\2016-net-week-3\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\Owner\Documents\2016-net-week-3\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\Owner\Documents\2016-net-week-3\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\Owner\Documents\2016-net-week-3\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\2016-net-week-3\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\Owner\Documents\2016-net-week-3\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
